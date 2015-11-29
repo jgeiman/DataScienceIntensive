@@ -1,4 +1,5 @@
-# Capstone Project - Predictive Modeling of Property Hazards Prior to Inspection
+# Capstone Project
+## Predictive Modeling of Property Hazards Prior to Inspection
 
 ****
 
@@ -6,7 +7,11 @@ This repository contains code written as part of a Capstone Project for SlideRul
 
 The goal of the competition was to **forecast the hazard score from variables that are available before the inspection**. A total of 49 models were created and submitted to Kaggle for evaluation against the test data set, using a wide variety of machine learning approaches. Note that all these submissions were made after the competition ended. Code for each submission is located in the *submissions* directory. 
 
-The best performing model created for this project achieved a normalized Gini coefficient of 0.375.
+The best performing model created for this project achieved a normalized Gini coefficient of 0.375 on the test data set.
+
+For additional information on the data set, the predictive modeling approach, the results, as well as recommendations based on the modeling performed, see the *doc* directory. The doc directory contains:
+* Capstone Project Report
+* Summary Presentation Slide Deck 
 
 ****
 
